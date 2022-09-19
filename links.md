@@ -15,30 +15,26 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+WEEK 01
+1. [Terminal Commands Lesson 04 - Editing Text Files - echo, cat, nano, vi](https://www.youtube.com/watch?v=s2bsE7MJTQg&t=378s)<br>
+Usefull information about how to change text files from your terminal, i used it to help me update mylog.txt
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Introduction of Operating System – Set 1](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)<br>
+Easy to read and to understand for someone who didn't know anything about os. 
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+<br><br>
+WEEK 02
+1. [Cyber Security Training - Cyber Security Terms and Concepts](https://www.youtube.com/watch?v=ASxswzGt41g)<br>
+Good videos for beginners it explained the commonly used term in cyber security
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+2. [What Is Digital Privacy—and How Can It Be Protected?](https://www.idx.us/knowledge-center/what-is-digital-privacy-and-how-can-it-be-protected)<br>
+explaining lot of things related to digital privacy including the law and organizations that is responsible for it.
+
+2. [What is Cyber Security?](https://www.kaspersky.co.in/resource-center/definitions/what-is-cyber-security)<br>
+Basics things that are related with cyber security. Pretty good for beginner.
+
+
 
 <br>
 <hr>
