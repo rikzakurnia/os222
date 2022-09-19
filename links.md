@@ -4,7 +4,7 @@ permalink: LINKS/
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME](https://rikzakurnia.github.io/os222/) ---
-[LINKS](https://github.com/rikzakurnia/os222/edit/main/links.md) ---
+[LINKS](https://github.com/rikzakurnia/os222/blob/main/links.md) ---
 [TIPS]() ---
 [PUBLIC KEY](https://github.com/rikzakurnia/os222/blob/main/TXT/mypubkey.txt) ---
 [LOG](https://github.com/rikzakurnia/os222/blob/main/TXT/mylog.txt) ---
