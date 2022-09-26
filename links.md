@@ -35,6 +35,14 @@ explaining lot of things related to digital privacy including the law and organi
 Basics things that are related with cyber security. Pretty good for beginner.
 
 
+WEEK 03
+1. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+Easy to understand, explaining the basics of file systems with visualization that really helps and fun to watch.
+
+2. [Unix / Linux - File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
+Useful documentation for linux file-systems.
+
+
 
 <br>
 <hr>
