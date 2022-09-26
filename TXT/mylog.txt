@@ -17,6 +17,14 @@ ZCZC W02 30  L43 TXT/myrank.txt related, including peer review.
 ZCZC W02 50  L05 Quiz related including studying
 ZCZC W02 120 L09 Weekly Assignments
 ZCZC W02 20  L03 GitHub and git related, including commit, push, pull
+ZCZC W03 100 L02 Zoom Meetings Related
+ZCZC W03 60  L05 Quiz related including studying
+ZCZC W03 100 L02 Zoom Meetings Related
+ZCZC W03 30  L05 Quiz related including studying
+ZCZC W03 30  L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 100 L09 Weekly Assignments
+ZCZC W03 30  L43 TXT/myrank.txt related, including peer review.
+ZCZC W03 20  L03 GitHub and git related, including commit, push, pull
 
 
 
