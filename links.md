@@ -42,6 +42,19 @@ Easy to understand, explaining the basics of file systems with visualization tha
 2. [Unix / Linux - File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm)<br>
 Useful documentation for linux file-systems.
 
+WEEK 04
+1. [Format Specifiers in C](https://www.freecodecamp.org/news/format-specifiers-in-c/)<br>
+Useful documentation for string slicing in C.
+
+2. [The 40 Most-Used Linux Commands You Should Know](https://kinsta.com/blog/linux-commands/#:~:text=Commands%20Cheat%20Sheet-,What%20Is%20a%20Linux%20Command%3F,abstraction%20of%20command%2Dline%20programs.)<br>
+Recomended to re-check this page whenever u forget some basic linux command.
+
+3. [How to Write, Compile and Run a C Program in Ubuntu and Other Linux Distributions Beginner’s Tip](https://itsfoss.com/run-c-program-linux/)<br>
+Another C basic in linux that i use for reference. 
+
+4. [Paging dalam Sistem Operasi dengan Contoh & Kerja - Manajemen Memori](https://www.youtube.com/watch?v=pJ6qrCB8pDw&t=341s)<br>
+Explaining about paging in OS. It has a good visualization.
+
 
 
 <br>
