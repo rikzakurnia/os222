@@ -25,7 +25,12 @@ ZCZC W03 30  L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 100 L09 Weekly Assignments
 ZCZC W03 30  L43 TXT/myrank.txt related, including peer review.
 ZCZC W03 20  L03 GitHub and git related, including commit, push, pull
-
-
-
-
+ZCZC W04 100 L02 Zoom Meetings Related
+ZCZC W04 40  L05 Quiz related including studying
+ZCZC W04 20  L01 SCELE/Discord related
+ZCZC W04 100 L02 Zoom Meetings Related
+ZCZC W04 50  L05 Quiz related including studying
+ZCZC W04 30  L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 40  L09 Weekly Assignments
+ZCZC W04 20  L03 GitHub and git related, including commit, push, pull
+ZCZC W04 40  L01 SCELE/Discord related
