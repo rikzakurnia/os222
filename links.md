@@ -55,6 +55,12 @@ Another C basic in linux that i use for reference.
 4. [Paging dalam Sistem Operasi dengan Contoh & Kerja - Manajemen Memori](https://www.youtube.com/watch?v=pJ6qrCB8pDw&t=341s)<br>
 Explaining about paging in OS. It has a good visualization.
 
+WEEK 05
+1. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+Reminding the concept of little endian and big endian that we already learned in previous term.
+
+2. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+Virtual memory in OS basics.
 
 
 <br>
