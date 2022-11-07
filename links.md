@@ -62,6 +62,11 @@ Reminding the concept of little endian and big endian that we already learned in
 2. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 Virtual memory in OS basics.
 
+WEEK 06
+1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+Explained about fork, and how to use them in C.
+
+
 
 <br>
 <hr>
