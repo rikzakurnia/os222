@@ -39,5 +39,13 @@ ZCZC W05 30  L05 Quiz related including studying
 ZCZC W05 20  L01 SCELE/Discord related
 ZCZC W05 60  L05 Quiz related including studying
 ZCZC W05 30  L43 TXT/myrank.txt related, including peer review.
-ZCZC W04 60  L09 Weekly Assignments
-ZCZC W04 20  L03 GitHub and git related, including commit, push, pull
+ZCZC W05 60  L09 Weekly Assignments
+ZCZC W05 20  L03 GitHub and git related, including commit, push, pull
+ZCZC W06 100 L02 Zoom Meetings Related
+ZCZC W06 30  L05 Quiz related including studying
+ZCZC W06 20  L01 SCELE/Discord related
+ZCZC W06 100 L02 Zoom Meetings Related
+ZCZC W06 60  L05 Quiz related including studying
+ZCZC W06 30  L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 60  L09 Weekly Assignments
+ZCZC W06 20  L03 GitHub and git related, including commit, push, pull
