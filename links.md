@@ -68,9 +68,11 @@ Explained about fork, and how to use them in C.
 
 WEEK 07
 1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp)
+
 This website contains explanations about deadlock in OS. 
 
 2. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+
 Useful explanation about scp command that helps to do the weekly assignment.
 
 <br>
