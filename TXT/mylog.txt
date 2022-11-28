@@ -69,3 +69,14 @@ ZCZC W08 100 L09 Weekly Assignments
 ZCZC W08 20  L03 GitHub and git related, including commit, push, pull
 ZCZC W08 30  L43 TXT/myrank.txt related, including peer review.
 ZCZC W08 10  L03 GitHub and git related, including commit, push, pull
+ZCZC W09 100 L00 General, etc.
+ZCZC W09 30  L01 SCELE/Discord related
+ZCZC W09 100 L00 General, etc.
+ZCZC W09 30  L05 Quiz related including studying
+ZCZC W09 30  L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W09 100 L09 Weekly Assignments
+ZCZC W09 100 L09 Weekly Assignments
+ZCZC W09 20  L05 Quiz related including studying
+ZCZC W09 20  L03 GitHub and git related, including commit, push, pull
+ZCZC W09 30  L43 TXT/myrank.txt related, including peer review.
+ZCZC W09 10  L03 GitHub and git related, including commit, push, pull
